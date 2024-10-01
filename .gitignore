@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Debugging
+.vscode/
+*.swp
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Binaries
+*.exe
+*.out
+*.app
+
+# OS or Editor specific files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+*.swo
+.idea/
+.vscode/
+*.iml
+
+# Build directories
+dist/
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Misc
+*.lock
